@@ -9,7 +9,7 @@ export default async function Home() {
   return (
     <div>
       <header>
-        <h1>appwrite notes</h1>
+        <h1>Appwrite Notes</h1>
       </header>
 
       <NoteList initialNotes={notes} />
